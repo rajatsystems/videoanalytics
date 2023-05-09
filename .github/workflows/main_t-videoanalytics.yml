@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 't-videoanalytics'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA21C4C1405643FCA2CAE620582EE8D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57079289EDE24C608BC65E8D9D8D308B }}
