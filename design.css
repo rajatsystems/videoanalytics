@@ -1,0 +1,11 @@
+header.css-18ni7ap{
+    background-color: #e20074;
+    
+}
+
+.css-1dp5vir::before{
+    content: "T-Video Analytics";
+    font-size: 35px;
+    padding-left: 50px;
+    color: #ffffff;
+}
