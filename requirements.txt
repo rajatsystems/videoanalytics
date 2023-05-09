@@ -5,4 +5,3 @@ ultralytics
 
 # Streamlit -----------------------------------
 streamlit
-pydoc
