@@ -6,5 +6,5 @@ ADD requirements.txt /videoanalytics/
 RUN python3 -m pip install -r requirements.txt
 ADD . /videoanalytics/
 
-ENTRYPOINT [ "python" ]
-CMD [ "app.py" ]
+ENTRYPOINT [“streamlit”, “run”, “app.py”, “–server.port=8080”, “–server.address=0.0.0.0”]
+
