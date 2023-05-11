@@ -3,3 +3,6 @@ ultralytics
 
 # Streamlit -----------------------------------
 streamlit
+
+# OpenCV Headless -----------------------------------
+opencv-python-headless
